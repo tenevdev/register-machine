@@ -68,7 +68,6 @@ public class NumericalCoding {
         return list;
     }
 
-
     public static Integer of(Pair<Integer, Integer> pair) {
         return of(pair.getLeft(), pair.getRight());
     }
