@@ -1,4 +1,4 @@
-package rm;
+package model;
 
 import java.util.List;
 

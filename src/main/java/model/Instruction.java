@@ -1,4 +1,4 @@
-package rm;
+package model;
 
 import org.apache.commons.lang3.tuple.Pair;
 
